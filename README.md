@@ -5,7 +5,7 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=slaserx@itbox.bg&item_name=LinuxHelps%20Support&currency_code=EUR)
 [![N|Solid](http://i68.tinypic.com/a1ohky.png)](https://linuxhelps.net)
 
-<b>XXL Seek</b>
+<b>XXL Skeet</b>
 
 This is a free shell script under GNU GPL version 3.0 or above
 Copyright (C) 2017 LinuxHelps project.
@@ -15,13 +15,13 @@ Author Ivan Bachvarov a.k.a SlaSerX
 <b> Package request</b>
 
 ```sh
-apt-get install mplayer lynx
+apt-get install mplayer lynx ccze
 ```
 
 ```sh
 git clone https://github.com/SlaSerX/xxl
 
 cd xxl/
-chmod +x seek_xxl
-./seek_xxl
+chmod +x skeet_xvideos.sh
+./skeet_xvideos.sh example
 ```
